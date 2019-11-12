@@ -1,0 +1,16 @@
+C:\projects\.NET\StatsBook\StatsBook.Tests\obj\Debug\netcoreapp2.2\StatsBook.Tests.csprojAssemblyReference.cache
+C:\projects\.NET\StatsBook\StatsBook.Tests\obj\Debug\netcoreapp2.2\StatsBook.Tests.AssemblyInfoInputs.cache
+C:\projects\.NET\StatsBook\StatsBook.Tests\obj\Debug\netcoreapp2.2\StatsBook.Tests.AssemblyInfo.cs
+C:\projects\.NET\StatsBook\StatsBook.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\projects\.NET\StatsBook\StatsBook.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\projects\.NET\StatsBook\StatsBook.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\projects\.NET\StatsBook\StatsBook.Tests\bin\Debug\netcoreapp2.2\StatsBook.Tests.deps.json
+C:\projects\.NET\StatsBook\StatsBook.Tests\bin\Debug\netcoreapp2.2\StatsBook.Tests.runtimeconfig.json
+C:\projects\.NET\StatsBook\StatsBook.Tests\bin\Debug\netcoreapp2.2\StatsBook.Tests.runtimeconfig.dev.json
+C:\projects\.NET\StatsBook\StatsBook.Tests\bin\Debug\netcoreapp2.2\StatsBook.Tests.dll
+C:\projects\.NET\StatsBook\StatsBook.Tests\bin\Debug\netcoreapp2.2\StatsBook.Tests.pdb
+C:\projects\.NET\StatsBook\StatsBook.Tests\bin\Debug\netcoreapp2.2\StatsBook.dll
+C:\projects\.NET\StatsBook\StatsBook.Tests\bin\Debug\netcoreapp2.2\StatsBook.pdb
+C:\projects\.NET\StatsBook\StatsBook.Tests\obj\Debug\netcoreapp2.2\StatsBook.Tests.csproj.CopyComplete
+C:\projects\.NET\StatsBook\StatsBook.Tests\obj\Debug\netcoreapp2.2\StatsBook.Tests.dll
+C:\projects\.NET\StatsBook\StatsBook.Tests\obj\Debug\netcoreapp2.2\StatsBook.Tests.pdb

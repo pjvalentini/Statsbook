@@ -1,0 +1,10 @@
+C:\projects\.NET\StatsBook\StatsBook\bin\Debug\netcoreapp2.2\StatsBook.deps.json
+C:\projects\.NET\StatsBook\StatsBook\bin\Debug\netcoreapp2.2\StatsBook.runtimeconfig.json
+C:\projects\.NET\StatsBook\StatsBook\bin\Debug\netcoreapp2.2\StatsBook.runtimeconfig.dev.json
+C:\projects\.NET\StatsBook\StatsBook\bin\Debug\netcoreapp2.2\StatsBook.dll
+C:\projects\.NET\StatsBook\StatsBook\bin\Debug\netcoreapp2.2\StatsBook.pdb
+C:\projects\.NET\StatsBook\StatsBook\obj\Debug\netcoreapp2.2\StatsBook.csprojAssemblyReference.cache
+C:\projects\.NET\StatsBook\StatsBook\obj\Debug\netcoreapp2.2\StatsBook.AssemblyInfoInputs.cache
+C:\projects\.NET\StatsBook\StatsBook\obj\Debug\netcoreapp2.2\StatsBook.AssemblyInfo.cs
+C:\projects\.NET\StatsBook\StatsBook\obj\Debug\netcoreapp2.2\StatsBook.dll
+C:\projects\.NET\StatsBook\StatsBook\obj\Debug\netcoreapp2.2\StatsBook.pdb
